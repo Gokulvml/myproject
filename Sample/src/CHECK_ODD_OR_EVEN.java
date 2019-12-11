@@ -23,6 +23,7 @@ public class CHECK_ODD_OR_EVEN {
 		}
 		else
 		{
+			System.out.println("Else loop started ");
 			System.out.println("given number is odd"+num);
 		}
 	}
