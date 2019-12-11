@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class Collection {
 	public static void main(String[] args) {
+		
+		// edited from LRUI_101 jira
 		ArrayList<String> list = new ArrayList<String>();
 		list.add("Hello");
 		list.add("hai");
