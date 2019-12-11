@@ -25,6 +25,7 @@ public class CHECK_ODD_OR_EVEN {
 		{
 			System.out.println("Else loop started ");
 			System.out.println("given number is odd"+num);
+			System.out.println("else part ended");
 		}
 	}
 
