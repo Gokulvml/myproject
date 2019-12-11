@@ -4,7 +4,7 @@ public class Largest_two_number {
 	public static void main (String args[])
 	
 			{
-		
+		// give a is Good from master commit
 		int a= 25;
 		int b= 35;
 		boolean c;
