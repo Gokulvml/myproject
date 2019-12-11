@@ -14,7 +14,7 @@ public class Testing {
 	public static void main (String[] args)
 	{
 		
-		Testing testing = new Testing("Raja");
+		Testing testing = new Testing("Rajathiraja");
 	
 		
 		
