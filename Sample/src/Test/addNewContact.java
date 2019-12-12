@@ -10,7 +10,7 @@ public class addNewContact {
 	
 	
 		
-		
+		//test commit for test class
 		 
 		 List<String> stringList = new ArrayList<String>();
 		 
