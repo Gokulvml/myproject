@@ -13,8 +13,17 @@ public class Testing {
 	
 	public static void main (String[] args)
 	{
+
 		// added from myproject
-		Testing testing = new Testing("Rani");
+		Testing testing1 = new Testing("Rani");
+
+		
+
+		Testing testing2 = new Testing("Rajathiraja");
+
+		Testing testing3 = new Testing("Rani");
+
+
 	
 		
 		
