@@ -23,6 +23,7 @@ public class CHECK_ODD_OR_EVEN {
 		}
 		else
 		{// test commit
+			// test 2 commmit
 			System.out.println("Else loop started ");
 			System.out.println("given number is odd"+num);
 			System.out.println("else part ended");
