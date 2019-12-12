@@ -17,6 +17,7 @@ public class addNewContact {
 		 stringList.add("Gokul");
 		 stringList.add("Athithan");
 		 stringList .add("Sasi");
+		 stringList .add("Sasikala");
 		 stringList.forEach((names)-> System.out.println(names));
 	}
 }
