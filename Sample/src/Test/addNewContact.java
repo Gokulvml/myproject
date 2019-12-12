@@ -13,7 +13,7 @@ public class addNewContact {
 		//test commit for test class
 		 // test 2 commmit
 		 List<String> stringList = new ArrayList<String>();
-		 
+		 // commit 3
 		 stringList.add("Gokul");
 		 stringList.add("Athithan");
 		 stringList .add("Sasi");
